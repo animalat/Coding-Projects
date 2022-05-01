@@ -1,4 +1,5 @@
-Made by: Action (for a school project)
+Made by: Action
+A slot machine program in Processing
 
 
 Sounds by: OLG Lottery... the ones that constantly fill a store over and over and over until they are engraved in your head forever.
