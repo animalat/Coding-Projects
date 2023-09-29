@@ -1,6 +1,6 @@
 //Name: Action
 //Date: April 7, 2022
-//Description: Question 3, a usable slot machine
+//Description: a usable slot machine
 //NOTE: Can become laggy on slower computers, especially with the many moving pictures when spinning... e.g. on my computer it only takes a couple of seconds for a spin but it might slowdown and feel like it's spinning a long time
 
 import processing.sound.*;
