@@ -1,4 +1,4 @@
-//Name: Actio
+//Name: nakshayan
 //Date; February 23, 2022
 //Description: Draws a landscape with a castle (from BOTW).
 //Inspired by https://www.youtube.com/watch?v=2cmQfzG4VJs and https://wallpaperaccess.com/zelda-dual-screen - thanks!
