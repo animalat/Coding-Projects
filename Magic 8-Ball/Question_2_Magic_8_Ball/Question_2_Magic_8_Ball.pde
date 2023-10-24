@@ -1,4 +1,4 @@
-//Name: Action
+//Name: nakshayan
 //Date: April 7, 2022
 //Description: Question 2, draws a usable magic 8-ball
 final int INTRO = 0; //constant for intro
