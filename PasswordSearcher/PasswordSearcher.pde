@@ -1,4 +1,4 @@
-// Name: nakshyaan
+// Name: nakshayan
 // Date Started: March 22, 2023
 // Description: Lets the user search for a password in a known passwords list (find top 1000000 passwords list on Wikipedia),
 // and displays if that passwords was found in the top passwords, and what place it was found in (what its position, 1 indexed, was in the original document).
