@@ -1,4 +1,4 @@
-//Name: Action
+//Name: nakshayan
 //Starting date: April 7, 2022
 //Description: A screensaver that makes cool designs.
 
