@@ -1,4 +1,4 @@
-Made by: Action
+Made by: nakshayan
 A slot machine program in Processing
 
 
