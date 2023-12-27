@@ -1,14 +1,17 @@
+--
 -- ***************************************************
 -- Day-of-Week-Finder.rkt
 -- Finds the day of the week, given the date in "yyyy/mm/dd"
 -- ***************************************************
 --
 
+
 -- Citation:
 -- This algorithm, called "Zeller's congruence" was created by Christian Zeller.
 -- This is his paper archived:
 -- https://projecteuclid.org/journals/acta-mathematica/volume-9/issue-none/Kalender-Formeln/10.1007/BF02406733.full
 -- This code below that I created uses this algorithm.
+
 
 findDayOfWeek :: Int -> String
 findDayOfWeek zeller = case zeller of
@@ -37,7 +40,6 @@ main :: IO()
 main = do
     putStrLn "Enter the date in the format yyyy/mm/dd: "
     date <- getLine
-    let [y, m, d] = map read (splitList date)
-    let zeller = zellerCongruence y m d
-    let dayOfWeek = findDayOfWeek zeller
+    let [y, m, d] = map read (splitList date) :: [Int]
+    let dayOfWeek = findDayOfWeek (zellerCongruence y m d) :: String
     putStrLn ("The day of the week is " ++ dayOfWeek)
