@@ -20,4 +20,4 @@
 
 <BR CLEAR=ALL />
 <br>
-<h3 align="left">See folders for the code to some of my projects 💡</h3>
+<h3 align="left">See folders in this repository for code 💡</h3>
